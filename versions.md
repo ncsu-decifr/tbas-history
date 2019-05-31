@@ -1,4 +1,4 @@
-## T-BAS v2.1 ()
+## T-BAS v2.1 (2019)
 *   Multi-locus placement of unknown taxa sequences with user-customizable metadata on eleven included reference trees
 *   Multi-locus placement on user-uploaded reference tree, multi-locus sequence alignments and metadata
 *   Standardization of phylogenetic placement and metadata output using the extended PhyloXML format
@@ -11,7 +11,7 @@
 *   Display network graphs with node attributes
 *   Save trees, networks and color legends as SVG, PNG or PDF files
 
-## T-BAS v1 ()
+## T-BAS v1 (2017)
 
 *	Single-locus placement of unknown taxa sequences and user-customizable metadata on two included trees: fungi (Ascomycota) and bacteria
 *	Single-locus placement on a user-provided reference tree, multi-locus sequence alignments and metadata
