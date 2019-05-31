@@ -3,7 +3,7 @@ var gulp = require('gulp'),
     markdown = require('gulp-markdown');
 
 gulp.task('markdown_docker', function() {
-    return gulp.src('README.md')
+    return gulp.src(["versions.md", "history.md"])
         .pipe(rename({
             extname: ".html",
             suffix: "-history"
