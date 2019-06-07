@@ -1,5 +1,8 @@
 
 
+* 2019-06-06
+Fix problem with some users getting user not logged in error by setting php session cookie parameters.
+
 * 2019-05-09
 Update BLAST UNITE filters to filter at taxon level one above for each tree.
 
