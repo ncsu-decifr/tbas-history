@@ -1,6 +1,6 @@
 ## T-BAS v2.1 (2019)
-*   Multi-locus placement of unknown taxa sequences with user-customizable metadata on eleven included reference trees
-*   Multi-locus placement on user-uploaded reference tree, multi-locus sequence alignments and metadata
+*   Multilocus placement of unknown taxa sequences with user-customizable metadata on eleven included reference trees
+*   Multilocus placement on user-uploaded reference tree, multilocus sequence alignments and metadata
 *   Standardization of phylogenetic placement and metadata output using the extended PhyloXML format
 *   Perform cumulative placement of unknown taxa sequences on reference tree
 *   Pre-filtering and/or classification of unknown nrITS or 16S rDNA barcode sequences using the UNITE fungal nrITS database or SILVA bacterial database
@@ -14,7 +14,7 @@
 ## T-BAS v1 (2017)
 
 *	Single-locus placement of unknown taxa sequences and user-customizable metadata on two included trees: fungi (Ascomycota) and bacteria
-*	Single-locus placement on a user-provided reference tree, multi-locus sequence alignments and metadata
+*	Single-locus placement on a user-provided reference tree, multilocus sequence alignments and metadata
 *	Option to select from two phylogeny-based placement options: EPA and backbone constraint tree
 *	Classification of unknown nrITS barcode sequences using the UNITE fungal nrITS database
 *	Metadata displayed as colorized outer rings in phylogenies
