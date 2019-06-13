@@ -1,4 +1,5 @@
-
+* 2019-06-13
+Create new Documentation and tutorials.
 
 * 2019-06-06
 Fix problem with some users getting user not logged in error by setting php session cookie parameters.
