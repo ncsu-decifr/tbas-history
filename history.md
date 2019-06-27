@@ -1,3 +1,6 @@
+* 2019-06-27
+Add button PartitionFinder to run tool on selected clade.
+
 * 2019-06-13
 Create new Documentation and tutorials.
 
