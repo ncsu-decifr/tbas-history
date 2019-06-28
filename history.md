@@ -1,5 +1,8 @@
+* 2019-06-28
+Update Phylogeny(RAxML) to use results from Partition Finder
+
 * 2019-06-27
-Add button PartitionFinder to run tool on selected clade.
+Add button PartitionFinder to run Partition Finder tool on selected clade.
 
 * 2019-06-13
 Create new Documentation and tutorials.
