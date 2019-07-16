@@ -1,5 +1,8 @@
+* 2019-07-15
+Add MSAViewer for viewing alignemts.
+
 * 2019-06-28
-Update Phylogeny(RAxML) to use results from Partition Finder
+Update Phylogeny(RAxML) to use results from Partition Finder.
 
 * 2019-06-27
 Add button PartitionFinder to run Partition Finder tool on selected clade.
