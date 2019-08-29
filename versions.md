@@ -1,3 +1,8 @@
+## T-BAS v2.1.1 (August 2019)
+*  Convert all Python scripts from Python 2 to Python 3
+*  Change all html templates to Bootstrap 4.3 which gives a slightly bolder look and a better responsive design
+*  Add logout/login and register buttons to the navbar. Move login form html from index.php to login.php
+
 ## T-BAS v2.1 (2019)
 *   Multilocus placement of unknown taxa sequences with user-customizable metadata on eleven included reference trees
 *   Multilocus placement on user-uploaded reference tree, multilocus sequence alignments and metadata
