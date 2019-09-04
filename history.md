@@ -1,3 +1,6 @@
+* 2019-09-04
+Add ability to calculate F-scores of placement accuracy for Order, Family, Genus and Species in addition to original default of Class.
+
 * 2019-07-15
 Add MSAViewer for viewing alignemts.
 
