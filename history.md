@@ -1,3 +1,6 @@
+* 2019-10-04
+Switched PostgreSQL login database server from NCSU hosting to AWS.
+
 * 2019-09-24
 Add option to select wall time for RAxML.
 
