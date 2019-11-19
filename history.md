@@ -1,3 +1,6 @@
+* 2019-11-19
+Update progam to create OTUs from QIIME pick_otus.py to use VSEARCH, an open source alternative to USEARCH. The motivation was to upgrade all scripts to Python 3 which does not work with pick_otus.py, however testing found that the results for VSEARCH were also more accurate.
+
 * 2019-09-24
 Add option to select wall time for RAxML.
 
