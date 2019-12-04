@@ -1,3 +1,6 @@
+* 019-12-04
+Change mouse wheel behaviour for rectangular layout from zoom to scroll. Zoom must be done with the +/- magnifier icon.
+
 * 2019-10-04
 Switched PostgreSQL login database server from NCSU hosting to AWS.
 
