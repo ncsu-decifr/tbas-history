@@ -1,3 +1,12 @@
+* 2020-01-02
+Add button to TBAS called Save colors that writes edited colors to .mep file that will display edited colors when reused. Save edited .mep files to xml_archives as <runid>_edit.mep.gz.
+
+* 2020-01-02
+Hide links to vsearch and otus report until after submit button is clicked.
+
+* 2019-12-10
+Change name of XML with TBAS reults to .mep file (Metadata Enhanced PhyloXML). Create schema to validate .mep files and update the .mep XML so it will pass validation of schema.
+
 * 2019-12-04
 Change mouse wheel behaviour for rectangular layout from zoom to scroll. Zoom must be done with the +/- magnifier icon.
 
