@@ -1,5 +1,5 @@
 * 2020-01-02
-Add button to TBAS called Save colors that writes edited colors to .mep file that will display edited colors when reused. Save edited .mep files to xml_archives as <runid>_edit.mep.gz.
+Add button to TBAS called Save colors that writes edited colors to .mep file that will display edited colors when reused. Save edited .mep files to xml_archives as RUNID_edit.mep.gz.
 
 * 2020-01-02
 Hide links to vsearch and otus report until after submit button is clicked.
@@ -10,8 +10,14 @@ Change name of XML with TBAS reults to .mep file (Metadata Enhanced PhyloXML). C
 * 2019-12-04
 Change mouse wheel behaviour for rectangular layout from zoom to scroll. Zoom must be done with the +/- magnifier icon.
 
+* 2019-12-04
+Add CIPRES Status message to RAxML wall time info box.
+
 * 2019-11-19
 Update progam to create OTUs from QIIME pick_otus.py to use VSEARCH, an open source alternative to USEARCH. The motivation was to upgrade all scripts to Python 3 which does not work with pick_otus.py, however testing found that the results for VSEARCH were also more accurate.
+
+* 2019-10-30
+Add outgroup box for cifr phyloXML (.mep) upload.
 
 * 2019-10-04
 Switched PostgreSQL login database server from NCSU hosting to AWS.
