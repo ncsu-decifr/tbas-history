@@ -1,3 +1,6 @@
+* 2020-01-16
+Create Placement Report from MEP file upload if no placement selected.
+
 * 2020-01-02
 Add button to TBAS called Save colors that writes edited colors to .mep file that will display edited colors when reused. Save edited .mep files to xml_archives as RUNID_edit.mep.gz.
 
