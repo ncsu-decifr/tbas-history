@@ -1,3 +1,9 @@
+* 2020-01-24
+Add text input box for annotation for a short run description the be sent in email to try to keep track of different runs.
+
+* 2020-01-23
+Add sequence data to assignments report no duplicates
+
 * 2020-01-16
 Create Placement Report from MEP file upload if no placement selected.
 
