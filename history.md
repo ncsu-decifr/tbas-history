@@ -1,3 +1,6 @@
+* 2020-01-26
+Add reference trees for section Chloropeltigera and section Peltigera.
+
 * 2020-01-24
 Add text input box for annotation for a short run description the be sent in email to try to keep track of different runs.
 
@@ -12,6 +15,9 @@ Add button to TBAS called Save colors that writes edited colors to .mep file tha
 
 * 2020-01-02
 Hide links to vsearch and otus report until after submit button is clicked.
+
+* 2019-12-20
+Add reference tree for section Peltidea.
 
 * 2019-12-10
 Change name of XML with TBAS reults to .mep file (Metadata Enhanced PhyloXML). Create schema to validate .mep files and update the .mep XML so it will pass validation of schema.
