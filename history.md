@@ -1,3 +1,9 @@
+* 2020-02-18
+Bug fix - fix reading of partition file with phylip file read incorrect partition length by 1.
+
+* 2020-02-17
+Bug fix - fix reading of tree file in Nexus format with translate block with spaces in the name.
+
 * 2020-01-26
 Add reference trees for section Chloropeltigera and section Peltigera.
 
