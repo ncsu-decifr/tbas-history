@@ -1,3 +1,9 @@
+* 2020-02-20
+Add bootstrap numbers and count loci columns to reports.
+
+* 2020-02-19
+Bug fix - fix printing with multi page pdf.
+
 * 2020-02-18
 Bug fix - fix reading of partition file with phylip file read incorrect partition length by 1.
 
