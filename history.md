@@ -1,3 +1,6 @@
+* 2020-02-26
+Add pop up page when submitting one locus ITS query with ITSx report on first 10 sequences  to see if 2 or 3 locus placement would be preferable.
+
 * 2020-02-20
 Add bootstrap numbers and count loci columns to reports.
 
