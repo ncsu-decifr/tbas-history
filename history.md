@@ -1,3 +1,9 @@
+* 2020-03-04
+Add second version of Laboulbeniomycetes reference tree.
+
+* 2020-03-03
+Added Prune Tree button to create newick file using more than one selected clade.
+
 * 2020-02-26
 Add pop up page when submitting one locus ITS query with ITSx report on first 10 sequences  to see if 2 or 3 locus placement would be preferable.
 
