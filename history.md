@@ -1,3 +1,9 @@
+* 2020-04-01
+For Peltigera tree add custom BLAST option.
+
+* 2020-03-25
+Create new UNITE report based on bitscore and report bitscore.
+
 * 2020-03-05
 Added fix for newick files fix support values like [0.0] that break raxml.
 
