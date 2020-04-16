@@ -1,3 +1,6 @@
+* 2020-03-05
+Added fix for newick files fix support values like [0.0] that break raxml.
+
 * 2020-03-04
 Add second version of Laboulbeniomycetes reference tree.
 
