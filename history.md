@@ -1,3 +1,9 @@
+* 2020-04-15
+Change TCS to show correct attributes after updating metadata.
+
+* 2020-04-15
+Change TCS view alignments to NEXUS file with partition block
+
 * 2020-04-01
 For Peltigera tree add custom BLAST option.
 
