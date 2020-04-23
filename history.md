@@ -1,3 +1,6 @@
+* 2020-04-21
+Add option to do placement with EPA with likelihood weights with EPA-ng program.
+
 * 2020-04-15
 Change TCS to show correct attributes after updating metadata.
 
