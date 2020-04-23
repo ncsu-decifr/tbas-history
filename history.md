@@ -1,3 +1,6 @@
+* 2020-04-23
+Add option for multi-locus placement to cluster on one locus instead of the concatenated queries.
+
 * 2020-04-21
 Add option to do placement with EPA with likelihood weights with EPA-ng program.
 
