@@ -1,3 +1,6 @@
+* 2020-04-24
+Update TCS to allow view alignments with select by list and fix order in alignmets to be the same is in T-BAS.
+
 * 2020-04-23
 Add option for multi-locus placement to cluster on one locus instead of the concatenated queries.
 
