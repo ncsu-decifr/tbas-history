@@ -1,3 +1,15 @@
+* 2020-04-30
+Add Keep reference metadata checkbox to update metadata to allow update of unknowns metadata without losing reference metadata.
+
+* 2020-04-29
+Sort attributes in select options alphabetically in T-BAS and TCS Graph.
+
+* 2020-04-29
+Fix 2 bugs in F-score report. First, allow taxon rank coloumn names to work if capitalized. Second, fix report for queries that have same name as strain in reference tree.
+
+* 2020-04-28
+Set colors for attributes in TCS to be the same as in T-BAS.
+
 * 2020-04-24
 Update TCS to allow view alignments with select by list and fix order in alignments to be the same is in T-BAS.
 
