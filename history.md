@@ -5,7 +5,7 @@ Add Keep reference metadata checkbox to update metadata to allow update of unkno
 Sort attributes in select options alphabetically in T-BAS and TCS Graph.
 
 * 2020-04-29
-Fix 2 bugs in F-score report. First, allow taxon rank coloumn names to work if capitalized. Second, fix report for queries that have same name as strain in reference tree.
+Fix 2 bugs in F-score report. First, allow taxon rank column names to work if capitalized. Second, fix report for queries that have same name as strain in reference tree.
 
 * 2020-04-28
 Set colors for attributes in TCS to be the same as in T-BAS.
