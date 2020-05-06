@@ -1,3 +1,9 @@
+* 2020-05-05
+Change the View Tree Data button on the guide tree to create a new tree from mep file instead of run stored on server.
+
+* 2020-05-01
+Fix bug in TCS report where values were put in wrong columns
+
 * 2020-04-30
 Add Keep reference metadata checkbox to update metadata to allow update of unknowns metadata without losing reference metadata.
 
