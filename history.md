@@ -1,3 +1,12 @@
+* 2020-05-07
+Add columns to BLAST UNITE  complete report and remove one other similar redundant report.
+
+* 2020-05-07
+Add Multifurcating reference trees for all reference trees.
+
+* 2020-05-06
+Add options to run de novo or constraint tree with bootstraps using iqtree.
+
 * 2020-05-05
 Change the View Tree Data button on the guide tree to create a new tree from mep file instead of run stored on server.
 
