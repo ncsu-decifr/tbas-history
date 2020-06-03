@@ -1,3 +1,12 @@
+* 2020-06-02
+Bug fix. Fix reading NEXUS files with quoted names with trailing space did not remove space.
+
+* 020-05-28
+Add new button and click option called send to new tree. This sends selections to a page that allows user to select a tree that has more resolution for that clade. Selecting the tree causes the selections to be placed on the new tree.
+
+* 2020-05-20
+Update all queries within OTUs selection to work better. Opens multiple windows according to sequence selection.
+
 * 2020-05-07
 Add columns to BLAST UNITE  complete report and remove one other similar redundant report.
 
