@@ -1,3 +1,6 @@
+* 2020-06-10
+Fix raxml subtree to report counts of empty loci in selections and remove taxa with no data in view alignments.
+
 * 2020-06-02
 Bug fix. Fix reading NEXUS files with quoted names with trailing space did not remove space.
 
