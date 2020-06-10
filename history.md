@@ -1,4 +1,7 @@
 * 2020-06-10
+Change link names to placement directory according to the program used.
+
+* 2020-06-10
 Fix raxml subtree to report counts of empty loci in selections and remove taxa with no data in view alignments.
 
 * 2020-06-02
