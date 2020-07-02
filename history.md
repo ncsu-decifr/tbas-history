@@ -1,3 +1,12 @@
+* 2020-07-02
+Update trees section peltigera and lecanoromycetes.
+
+* 2020-07-01
+Add option to run raxml multistate analysis.
+
+* 2020-06-17
+Add option on tree to add label to a collapsed node.
+
 * 2020-06-10
 Change link names to placement directory according to the program used.
 
