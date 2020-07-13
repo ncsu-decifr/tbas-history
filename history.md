@@ -1,3 +1,6 @@
+* 2020-07-11
+Change menu on all T-BAS pages.
+
 * 2020-07-02
 Update trees section peltigera and lecanoromycetes.
 
