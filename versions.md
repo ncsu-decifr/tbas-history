@@ -1,3 +1,7 @@
+## T-BAS v2.2 (July 2020)
+*  Update multilocus placement to place unlimited number of loci
+*  Convert file select boxes to upload files to drag and drop
+
 ## T-BAS v2.1.1 (August 2019)
 *  Convert all Python scripts from Python 2 to Python 3. There may be occasional bugs, but we will try to get any fixed as soon as possible.
 *  Change all html templates to Bootstrap 4.3 which gives a slightly bolder look and a better responsive design
