@@ -1,6 +1,7 @@
 ## T-BAS v2.2 (July 2020)
 *  Update multilocus placement to place unlimited number of loci
 *  Convert file select boxes to upload files to drag and drop
+*  Label partitions to select for placement with name of query files
 
 ## T-BAS v2.1.1 (August 2019)
 *  Convert all Python scripts from Python 2 to Python 3. There may be occasional bugs, but we will try to get any fixed as soon as possible.
