@@ -1,3 +1,9 @@
+* 2020-07-27
+Fix bug in prune tree function that was causing it not to work some times.
+
+* 2020-07-26
+Add tool tip to some buttons.
+
 * 2020-07-11
 Change menu on all T-BAS pages.
 
