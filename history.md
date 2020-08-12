@@ -1,3 +1,6 @@
+* 2020-08-12
+Fix Send to new tree function to work with v2.2
+
 * 2020-07-27
 Fix bug in prune tree function that was causing it not to work some times.
 
