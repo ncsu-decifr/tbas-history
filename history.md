@@ -1,3 +1,6 @@
+* 2020-08-14
+Add checkbox under colorize leaves to enable display of all metadata values in OTU.
+
 * 2020-08-12
 Fix Send to new tree function to work with v2.2
 
