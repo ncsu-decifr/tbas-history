@@ -1,3 +1,6 @@
+* 2020-08-19
+Add reset buttons to all drag and drop boxes to clear box.
+
 * 2020-08-14
 Add checkbox under colorize leaves to enable display of all metadata values in OTU.
 
