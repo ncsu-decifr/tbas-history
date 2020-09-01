@@ -1,3 +1,6 @@
+* 2020-08-28
+Add a link on the results page to view large tree with the telescope tree viewer tool.
+
 * 2020-08-19
 Add reset buttons to all drag and drop boxes to clear box.
 
