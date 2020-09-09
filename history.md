@@ -1,3 +1,9 @@
+* 2020-09-08
+Add check for cluster on one locus that all strains from other loci are included
+
+* 2020-09-08
+Fix bug in multi locus clustering in v. 2.2
+
 * 2020-08-28
 Add a link on the results page to view large tree with the telescope tree viewer tool.
 
