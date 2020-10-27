@@ -1,3 +1,6 @@
+* 2020-10-27
+Add check when uploading files to start that the upload was a success.
+
 * 2020-09-08
 Add check for cluster on one locus that all strains from other loci are included
 
