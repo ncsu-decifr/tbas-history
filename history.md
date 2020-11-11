@@ -1,3 +1,9 @@
+* 2020-11-10
+Install Let's Encrypt server certificates on servers that automatically update.
+
+* 2020-11-10
+Update all servers to make sure they are getting automatic software updates.
+
 * 2020-10-27
 Add check when uploading files to start that the upload was a success.
 
