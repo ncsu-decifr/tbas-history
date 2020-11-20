@@ -1,3 +1,6 @@
+* 2020-11-19
+Add new multilocus ribosomal protein reference tree.
+
 * 2020-11-10
 Install Let's Encrypt server certificates on servers that automatically update.
 
