@@ -1,6 +1,9 @@
 * 2020-11-19
 Add new multilocus ribosomal protein reference tree.
 
+* 2020-11-18
+Add 2 columns to assignments report (Trophic Mode and Guild) from the program FUNGuild.
+
 * 2020-11-10
 Install Let's Encrypt server certificates on servers that automatically update.
 
@@ -9,6 +12,9 @@ Update all servers to make sure they are getting automatic software updates.
 
 * 2020-10-27
 Add check when uploading files to start that the upload was a success.
+
+* 2020-09-14
+Update 2 names in lecanoromycetes v1 tree
 
 * 2020-09-08
 Add check for cluster on one locus that all strains from other loci are included
