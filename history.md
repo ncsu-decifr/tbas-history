@@ -1,3 +1,9 @@
+* 2020-12-09
+Create database that saves all placement reports and query fasta files.
+
+* 2020-12-09
+Add results of RDP classifier to placement reports.
+
 * 2020-11-19
 Add new multilocus ribosomal protein reference tree.
 
