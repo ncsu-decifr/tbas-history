@@ -1,3 +1,6 @@
+* 2020-12-16
+Change default setting for similarity test to skip.
+
 * 2020-12-09
 Create database that saves all placement reports and query fasta files.
 
