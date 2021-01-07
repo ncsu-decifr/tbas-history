@@ -1,3 +1,6 @@
+* 2021-01-07
+Fix but in Pruned Tree feature that was not working if the option separate was selected under Sequence.
+
 * 2020-12-16
 Change default setting for similarity test to skip.
 
