@@ -1,3 +1,6 @@
+* 2021-01-14
+Change scripts on the servers to not delete runs after 30 days.
+
 * 2021-01-07
 Fix but in Pruned Tree feature that was not working if the option separate was selected under Sequence.
 
