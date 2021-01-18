@@ -1,3 +1,6 @@
+* 2021-01-15
+Update outdated Guilds script from github that was not working for Funguild.
+
 * 2021-01-14
 Change scripts on the servers to not delete runs after 30 days.
 
