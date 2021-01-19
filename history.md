@@ -1,3 +1,6 @@
+* 2021-01-18
+Fix 2 bugs in script used to submit trees. One the link was incorrect and the other removed characters from the name.
+
 * 2021-01-15
 Update outdated Guilds script from github that was not working for Funguild.
 
