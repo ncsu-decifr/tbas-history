@@ -1,3 +1,6 @@
+* 2021-01-20
+Fix bug that caused partition finder page not to load.
+
 * 2021-01-18
 Fix 2 bugs in script used to submit trees. One the link was incorrect and the other removed characters from the name.
 
