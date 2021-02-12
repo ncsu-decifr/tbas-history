@@ -1,3 +1,12 @@
+* 2021-02-12
+Fix IQ-TREE to work for proteins.
+
+* 2021-02-10
+Add MeShClust as an option for clustering.
+
+* 2021-02-02
+Add COVID-19 tree and a reports page with locus regular expressions to locate genes with the MSA viewer.
+
 * 2021-01-20
 Fix bug that caused partition finder page not to load.
 
