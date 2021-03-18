@@ -1,3 +1,9 @@
+* 2021-03-18
+Remove individual loci from covid selections.
+
+* 2021-03-17
+Allow covid tree to cluster on selected partition with vsearch. Remove MeShClust as an option for clustering.
+
 * 2021-02-12
 Fix IQ-TREE to work for proteins.
 
