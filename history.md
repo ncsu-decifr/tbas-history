@@ -1,8 +1,26 @@
+* 2021-04-07
+Clean up reference tree start pages by hiding unused options and information.
+
+* 2021-03-30
+Auto select loci for input files with base name that matches the locus name.
+
+* 2021-03-29
+Add a warning for selecting more than 7 sequences for view or download.
+
+* 2021-03-29
+Add option to create or skip the creation of OTU fasta files that show how sequences were clustered.
+
+* 2021-03-29
+Update iqtree to new version 2.1.2 and allow constraint option.
+
 * 2021-03-18
 Remove individual loci from covid selections.
 
 * 2021-03-17
 Allow covid tree to cluster on selected partition with vsearch. Remove MeShClust as an option for clustering.
+
+* 2021-03-16
+Add new multi locus Fungi tree.
 
 * 2021-02-12
 Fix IQ-TREE to work for proteins.
@@ -26,7 +44,7 @@ Update outdated Guilds script from github that was not working for Funguild.
 Change scripts on the servers to not delete runs after 30 days.
 
 * 2021-01-07
-Fix but in Pruned Tree feature that was not working if the option separate was selected under Sequence.
+Fix in Pruned Tree feature that was not working if the option separate was selected under Sequence.
 
 * 2020-12-16
 Change default setting for similarity test to skip.
