@@ -1,3 +1,6 @@
+* 2021-04-12
+Fix bug that sequence metadata was not being displayed when MSA viewer is selected.
+
 * 2021-04-07
 Clean up reference tree start pages by hiding unused options and information.
 
