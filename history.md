@@ -1,3 +1,18 @@
+* 2021-05-07
+Add ability to view SH-aLRT and UFboot values on tree when using IQTREE.
+
+* 2021-04-30
+Add button to calculate statistics with UniFrac.
+
+* 2021-04-29
+Update Peltigera database.
+
+* 2019-04-19
+Switched PostgreSQL login database server from AWS to DigitalOcean.
+
+* 2021-04-19
+Add checkbox for IQTREE to not use partition file to run with many partitons which without might cause run to not finish.
+
 * 2021-04-12
 Fix bug that sequence metadata was not being displayed when MSA viewer is selected.
 
