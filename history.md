@@ -1,3 +1,15 @@
+* 2021-06-25
+Allow IQ-TREE protein placement to use either a select list or free text to select a model.
+
+* 2021-06-24
+Add step for Raxml and  IQ-TREE to prune reference tree to remove leafs that don't have any alignment data, which would cause tree creation to fail.
+
+* 2021-06-03
+Add Nonmetric multidimensional scaling for statistics.
+
+* 2021-05-12
+Create custom script to read and parse FUNGuild database at http://www.stbates.org/funguild_db_2.php for FUNGuild reports.
+
 * 2021-05-07
 Add ability to view SH-aLRT and UFboot values on tree when using IQTREE.
 
@@ -7,7 +19,7 @@ Add button to calculate statistics with UniFrac.
 * 2021-04-29
 Update Peltigera database.
 
-* 2019-04-19
+* 2021-04-19
 Switched PostgreSQL login database server from AWS to DigitalOcean.
 
 * 2021-04-19
