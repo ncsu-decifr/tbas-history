@@ -1,3 +1,6 @@
+* 2021-07-12
+Add button on tree viewer to select all loci for viewing.
+
 * 2021-07-06
 Add IQtree options to clade structure.
 
