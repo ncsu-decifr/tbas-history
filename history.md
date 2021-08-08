@@ -1,3 +1,6 @@
+* 2021-07-06
+Add IQtree options to clade structure.
+
 * 2021-06-25
 Allow IQ-TREE protein placement to use either a select list or free text to select a model.
 
