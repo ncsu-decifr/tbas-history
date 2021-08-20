@@ -19,4 +19,8 @@ gulp.task('move_images', function() {
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-history'));
 });
 
-gulp.task('default', ['markdown_docker', 'move_images']);
+// gulp.task('default', ['markdown_docker', 'move_images']);
+
+exports.default = gulp.series(
+    'markdown_docker', 'move_images'
+);
