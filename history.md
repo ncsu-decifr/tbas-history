@@ -1,3 +1,18 @@
+* 2021-08-16
+Fix several bugs in new Python3 TCS script.
+
+* 2021-08-16
+New metadata examples file for Pezizomycotina.
+
+* 2021-08-10
+Update database to 138.1 SSU Ref NR 99.
+
+* 2021-08-02
+Find and fix bug in MSA viewer script.
+
+* 2021-07-28
+Find and fix bug for alignments that were read as reverse complements 2 times causing extra R_ in name.
+
 * 2021-07-12
 Add button on tree viewer to select all loci for viewing.
 
