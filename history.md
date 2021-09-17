@@ -1,3 +1,6 @@
+* 2021-09-02
+Update example files on UniFrac page to use the tutorial on scikit-bio docs.
+
 * 2021-08-16
 Fix several bugs in new Python3 TCS script.
 
