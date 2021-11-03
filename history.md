@@ -1,3 +1,15 @@
+* 2021-11-01
+Add option for sumitted trees to select default bootstrap value and default band attribute.
+
+* 2021-11-01
+Change tree reroot function from BioPython to ete3 due to bug in rerooting unrooted trees.
+
+* 2021-10-28
+Show job annotation on tree viewer title bar.
+
+* 2021-10-15
+Update TBAS emails to change from address to icarbon@ncsu.edu
+
 * 2021-09-02
 Update example files on UniFrac page to use the tutorial on scikit-bio docs.
 
