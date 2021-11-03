@@ -1,5 +1,5 @@
 * 2021-11-01
-Add option for sumitted trees to select default bootstrap value and default band attribute.
+Add option for submitted trees to select default bootstrap value and default band attribute.
 
 * 2021-11-01
 Change tree reroot function from BioPython to ete3 due to bug in rerooting unrooted trees.
