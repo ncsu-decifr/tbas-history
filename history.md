@@ -1,3 +1,12 @@
+* 2021-12-17
+Add RAxML-NG options for placements on place on reference tree pages.
+
+* 2021-12-09
+Increased area to view names in MSAViewer to show longer names.
+
+* 2021-11-17
+Add 3 new trees Phytophthora.
+
 * 2021-11-01
 Add option for submitted trees to select default bootstrap value and default band attribute.
 
