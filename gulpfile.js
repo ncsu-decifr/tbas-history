@@ -11,12 +11,12 @@ gulp.task('markdown_docker', function() {
         }))
         .pipe(markdown())
 
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages'))
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages'))
 });
 
 gulp.task('move_images', function() {
     return gulp.src("images/tbas-history/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-history'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-history'));
 });
 
 // gulp.task('default', ['markdown_docker', 'move_images']);

@@ -1,3 +1,10 @@
+## T-BAS v2.3 (January 2033)
+*  Complete rewrite of T-BAS viewer code using a d3 Tree of Life example with ECMAScript 6 and d3 v.6
+*  New viewer loads trees several times faster and can load trees with up to 30K tips.
+*  Changed click to select to all circles to give more precise clade selections.
+*  Changed T-BAS mailer from NCSU internal mailer to a gmail account.
+
+
 ## T-BAS v2.2 (July 2020)
 
 *  Updated multilocus placement to place unlimited number of loci
