@@ -1,4 +1,4 @@
-## T-BAS v2.3 (January 2033)
+## T-BAS v2.3 (January 2022)
 *  Complete rewrite of T-BAS viewer code using a d3 Tree of Life example with ECMAScript 6 and d3 v.6
 *  New viewer loads trees several times faster and can load trees with up to 30K tips.
 *  Changed click to select to all circles to give more precise clade selections.
