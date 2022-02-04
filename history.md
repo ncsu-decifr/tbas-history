@@ -1,3 +1,27 @@
+* 2022-02-03
+Fix scale bar printing with PNG files.
+
+* 2022-02-02
+Fix viewer so it will scroll to position of link in placements report.
+
+* 2022-02-01
+Update font size controls for leaf text and bootstrap.
+
+* 2022-01-31
+Fix check boxes to display bootstraps or edge numbers as appropriate.
+
+* 2022-01-28
+Adjust print positions with tree and legends.
+
+* 2022-01-27
+Fix viewer code that made circles difficult to click due to bootstrap values written over them.
+
+* 2022-01-27
+Add script to convert any files input with UTF16 encoding to ASCII.
+
+* 2022-01-14
+Fix bug in writing newick files that caused branch lengths to be read incorrcetly.
+
 * 2021-12-17
 Add RAxML-NG options for placements on place on reference tree pages.
 
