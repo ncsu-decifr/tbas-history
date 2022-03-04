@@ -19,9 +19,9 @@ composer require league/oauth2-google
 Go here to create keys.
 https://console.developers.google.com/
 
-1: + create credentials
-2: OAuth client ID
-3: Web Application
+1. create credentials
+2. OAuth client ID
+3. Web Application
 4. add Authorized redirect URIs - http://localhost/tbas2_3/ext/PHPMailer/get_oauth_token.php
 5. create
 6. download json
