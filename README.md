@@ -16,3 +16,5 @@ http://localhost/tbas2_3/ext/PHPMailer/get_oauth_token.php
 sudo apt install composer
 composer require league/oauth2-google
 ```
+Go here to create keys.
+https://console.developers.google.com/
