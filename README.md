@@ -12,6 +12,8 @@ https://artisansweb.net/how-to-send-email-using-gmail-api-with-phpmailer/
 
 http://localhost/tbas2_3/ext/PHPMailer/get_oauth_token.php
 
+http://localhost/vendor/phpmailer/phpmailer/get_oauth_token.php
+
 ```
 sudo apt install composer
 composer require league/oauth2-google
