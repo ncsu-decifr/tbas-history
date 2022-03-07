@@ -14,6 +14,8 @@ http://localhost/tbas2_3/ext/PHPMailer/get_oauth_token.php
 
 http://localhost/vendor/phpmailer/phpmailer/get_oauth_token.php
 
+https://console.cloud.google.com/cloud-resource-manager
+
 ```
 sudo apt install composer
 composer require league/oauth2-google
