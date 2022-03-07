@@ -16,6 +16,9 @@ http://localhost/vendor/phpmailer/phpmailer/get_oauth_token.php
 
 https://console.cloud.google.com/cloud-resource-manager
 
+https://developers.google.com/gmail/api/?hl=en_US
+
+
 ```
 sudo apt install composer
 composer require league/oauth2-google
