@@ -32,3 +32,7 @@ https://console.developers.google.com/
 4. add Authorized redirect URIs - http://localhost/tbas2_3/ext/PHPMailer/get_oauth_token.php
 5. create
 6. download json
+7. open oauth2-google and set $clientId and $clientSecret from the json or the google api page.
+8. set the $redirectUri for server retrieving the token, eg http://localhost/phpmailer/get_oauth_token.php
+
+
