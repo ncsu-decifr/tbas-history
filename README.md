@@ -4,20 +4,22 @@ Notes for configuration of PHPMailer
 
 https://oit.ncsu.edu/campus-it/email/about/
 
-https://github.com/PHPMailer/PHPMailer/wiki/Using-Gmail-with-XOAUTH2
+## Some install notes
 
-https://oauth2-client.thephpleague.com/providers/league/
+https://github.com/PHPMailer/PHPMailer/wiki/Using-Gmail-with-XOAUTH2
 
 https://artisansweb.net/how-to-send-email-using-gmail-api-with-phpmailer/
 
+## Link to get_oauth_token.php on localhost
+
 http://localhost/tbas2_3/ext/PHPMailer/get_oauth_token.php
 
-
+## Login here to configure. To edit search gmail api
 
 https://console.cloud.google.com/cloud-resource-manager
 
 
-
+https://oauth2-client.thephpleague.com/providers/league/
 
 ```
 sudo apt install composer
