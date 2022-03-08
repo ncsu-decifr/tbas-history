@@ -12,11 +12,11 @@ https://artisansweb.net/how-to-send-email-using-gmail-api-with-phpmailer/
 
 http://localhost/tbas2_3/ext/PHPMailer/get_oauth_token.php
 
-http://localhost/vendor/phpmailer/phpmailer/get_oauth_token.php
+
 
 https://console.cloud.google.com/cloud-resource-manager
 
-https://developers.google.com/gmail/api/?hl=en_US
+
 
 
 ```
