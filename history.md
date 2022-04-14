@@ -1,3 +1,6 @@
+*  2022-04-08
+Debug errors pointed out by collaborator in TBAS rooting and update scripts for fix.
+
 * 2022-04-06
 Add collapse clade to click menu that opens a new tree with selected clade collapsed.
 
