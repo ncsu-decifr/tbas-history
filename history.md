@@ -1,3 +1,27 @@
+* 2022-04-06
+Add collapse clade to click menu that opens a new tree with selected clade collapsed.
+
+* 2022-03-27
+Add button to download complete color tables as a csv that can be used to update similar trees. Add button to use this file to update colors in tree.
+
+* 2022-03-09
+Add oauth2 to tbas mailer.
+
+* 2022-02-23
+Add fasta file and metadata from url as inputs.
+
+* 2022-02-18
+Add sort legend alphabetically.
+
+* 2022-02-14
+Use command dos2unix for uploaded files to fix hidden characters and utf16 encodings.
+
+* 2022-02-08
+Display view csv and view sequence with better formatting.
+
+* 2022-02-08
+Add keywork =HYPERLINK to csv reports to open link in spreadsheet.
+
 * 2022-02-03
 Fix scale bar printing with PNG files.
 
