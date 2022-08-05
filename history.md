@@ -1,3 +1,19 @@
+
+* 2022-07-28
+Rewrite script for updating metadata.
+
+* 2022-07-12
+Create cron script to save Digital Ocean login database archive to server.
+
+*  2022-06-22
+Add color bands width control.
+
+* 2022-06-17
+On register page add dropdown for country selection and entry into user database.
+
+* 2022-05-22
+Update how colors are read to allow edit of colors to apply to branch lines as well as color bands.
+
 * 2022-05-05
 Add control to place scale bar in best position for radial display and display names as italics.
 
