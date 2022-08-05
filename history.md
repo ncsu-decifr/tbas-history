@@ -1,3 +1,18 @@
+* 2022-05-05
+Add control to place scale bar in best position for radial display and display names as italics.
+
+* 2022-05-04
+Fix bootstap display thick lines.
+
+* 2022-04-25
+Add display options for submitted trees for default bootstrap value and default display attribute.
+
+* 2022-04-22
+For submit tree add selection for 70 or 95 percent for collapsed tree.
+
+* 2022-04-21
+Add option to display bands 4, 5 and 6 on tree.
+
 *  2022-04-08
 Debug errors pointed out by collaborator in TBAS rooting and update scripts for fix.
 
