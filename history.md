@@ -1,3 +1,23 @@
+* 2022-10-11
+Add new TBAS option for ClaaTU analysis.
+
+* 2022-10-10
+Update results page and email with link to REST resource for permanent MEP file.
+
+* 2022-10-04
+Update colors and layout for TBAS page and signin pages. Add new button to submit tree.
+
+* 2022-10-03
+Add submit tree options for update, replace, and version.
+
+* 2022-09-19
+Add captcha to register and contact us page.
+
+* 2022-08-11
+Add genus Chloroplast and Mitochondria as blast miss for SILVA BLAST.
+
+* 2022-08-10
+Add user country name to database.
 
 * 2022-07-28
 Rewrite script for updating metadata.
