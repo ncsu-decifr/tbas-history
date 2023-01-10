@@ -1,3 +1,21 @@
+* 2022-12-15
+Set leaf size to zero default for large trees to impove radial tree viewer performance.
+
+* 2022-12-05
+Links update after move to new datacenter and new server urls.
+
+* 2022-12-02
+Create new submit page.
+
+* 2022-11-28
+Change default wall time for CIPRES RAXML to 48  hours.
+
+* 2022-11-21
+Update login page styling.
+
+* 2022-10-23
+Add map to T-BAS that shows countries where species are located.
+
 * 2022-10-11
 Add new TBAS option for ClaaTU analysis.
 
