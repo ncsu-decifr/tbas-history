@@ -1,3 +1,21 @@
+* 2023-02-02
+Add options to Unifrac and Claatu to upload files from url, optionally as gz.
+
+* 2023-02-01
+Add checkbox to submit page to indicate submission is a virus.
+
+* 2023-01-19
+Set BLAST option to use SILVA if placing on submitted  trees that are Archaea or Bacteria.
+
+* 2023-01-11
+Fix bug default attribute sometimes not displaying.
+
+* 2022-12-24
+Change input files page layout to add blue bar to separate sections.
+
+* 2022-12-16
+Require sequence and metadata to submit for T-BAS accesson.
+
 * 2022-12-15
 Set leaf size to zero default for large trees to impove radial tree viewer performance.
 
