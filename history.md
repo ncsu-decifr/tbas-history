@@ -1,3 +1,13 @@
+
+* 2023-03-09
+Add info to info box that to show not just leaf count selected but also count of all hidden in the OTUs.
+
+* 2023-02-16
+Add Trimal to the create phylogeny option.
+
+* 2023-02-07
+Add new download option name list to download list of selected names.
+
 * 2023-02-02
 Add options to Unifrac and Claatu to upload files from url, optionally as gz.
 
