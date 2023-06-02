@@ -1,4 +1,29 @@
+* 2023-06-02
+Update Claatu to fix erroneous reports.
 
+* 2023-05-30
+Add Likelihood Score attribute to show as band.
+
+* 2023-05-12
+Add message about memory saver causing problems running T-BAS  in tabs.
+
+* 2023-05-01
+Change input of cluster value from dropdown to text.
+
+* 2023-04-25
+Add Phylum assignments and Class assignments reports for BLAST, TBAS, and RDP.
+
+* 2023-04-12
+Copy files when placing on submitted trees before opening new page to prevent showing blank page for a long time.
+
+* 2023-04-07
+Add new way for send to new tree to select trees by reading the guide tree descendants of current tree.
+
+* 2023-03-23
+Use cached funguild database if cannot connect to the web resource.
+
+* 2023-03-23
+Fix display of radial tree if arc is greater than 180 degrees.
 
 * 2023-03-09
 Add info to info box that to show not just leaf count selected but also count of all hidden in the OTUs.
