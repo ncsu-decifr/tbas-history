@@ -1,9 +1,13 @@
 
+
 * 2023-03-09
 Add info to info box that to show not just leaf count selected but also count of all hidden in the OTUs.
 
 * 2023-02-16
 Add Trimal to the create phylogeny option.
+
+* 2023-02-13
+Refactor one of the python scripts that creates T-BAS files.
 
 * 2023-02-07
 Add new download option name list to download list of selected names.
