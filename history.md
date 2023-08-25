@@ -1,3 +1,28 @@
+
+* 2023-08-23
+Allow to search tree for any attribute in metadata.
+
+* 2023-08-16
+Fix bug causing exset values to be off by a one for placements.
+
+* 2023-08-03
+Fix bug that was freezing T-BAS when running claatu or unifrac.
+
+* 2023-07-31
+Update select by list box to allow TaxID searching for use with viewing metablolites placements.
+
+* 2023-07-21
+Update map zoom to easily scroll from map to tree.
+
+* 2023-07-21
+Update map legend into 6 categories of sample size.
+
+* 2023-07-10
+Add IQ-TREE option to select merit optimality criterion for testing.
+
+* 2023-06-13
+Update OTU size legend into categories.
+
 * 2023-06-02
 Update Claatu to fix erroneous reports.
 
