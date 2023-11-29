@@ -1,4 +1,19 @@
 
+* 2023-11-15
+Add form checking when selecting loci for placement.
+
+* 2023-10-26
+Add plot with 95% ellipse for NMDS UniFrac.
+
+* 2023-10-19
+Add BLAST filter kingdom.
+
+* 2023-10-16
+Add send to PopPhy-CNN button.
+
+* 2023-10-05
+Create report that combines BLAST  and placement results.
+
 * 2023-09-12
 Add option to rename duplicates with trailing q or do not place.
 
