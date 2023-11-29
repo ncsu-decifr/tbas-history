@@ -1,4 +1,19 @@
 
+* 2023-09-12
+Add option to rename duplicates with trailing q or do not place.
+
+* 2023-09-11
+Add outgroup for send to new tree
+
+* 2023-09-07
+Add save MEP and colors for subtree.
+
+* 2023-08-28
+Have FUNGuild backup file if cannot get from internet.
+
+* 2023-08-29
+Add checkboxes for hide names and hide terminal circles.
+
 * 2023-08-23
 Allow to search tree for any attribute in metadata.
 
