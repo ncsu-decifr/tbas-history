@@ -1,3 +1,17 @@
+* 2024-02-08
+Bug fix. Change counting for trimal post process script that caused trimal columns to be incorrect by one position.
+
+* 2024-02-02
+Add bkgd_attr val to go to subtree.
+
+* 2024-01-23
+Add font options for map tip labels.
+
+* 2024-01-23
+Update site variable calculation to ignore gaps
+
+* 2024-01-18
+Add map data for provinces in Canada and  China.
 
 * 2023-12-05
 Update UNITE database to sh_general_release_dynamic_all_25.07.2023.fasta version 9.0 all eukaryotes.
