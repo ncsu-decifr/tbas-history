@@ -1,6 +1,9 @@
 
-* 2023-11-15
-Add form checking when selecting loci for placement.
+* 2023-12-05
+Update UNITE database to sh_general_release_dynamic_all_25.07.2023.fasta version 9.0 all eukaryotes.
+
+* 2023-12-05
+Add filter levels kingdom and phylum for UNITE filter.
 
 * 2023-10-26
 Add plot with 95% ellipse for NMDS UniFrac.
