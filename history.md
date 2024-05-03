@@ -1,3 +1,16 @@
+
+* 2024-02-29
+Add clean_sequences function to pad sequence ends with '?' replacing '-'
+
+* 2024-02-22
+Use a default model for epang cipres (Blosum62 or GTR+G)
+
+* 2024-02-16
+Read likelihood weights from jplace file.
+
+* 2024-02-14
+Add option for placement with full untrimmed sequence (no trimAl)
+
 * 2024-02-08
 Bug fix. Change counting for trimal post process script that caused trimal columns to be incorrect by one position.
 
