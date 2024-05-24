@@ -1,4 +1,58 @@
 
+* 2024-05-18
+Set BLAST database from display options.
+
+* 2024-05-15
+Add MAFFT wall time option.
+
+* 2024-05-14
+Add captcha for get quote link.
+
+* 2024-05-13
+Keep metadata columns in order for displaying. Add css for view metadata.
+
+* 2024-05-08
+Check and fix all click menu selections are working.
+
+* 2024-05-06
+For multi locus placement allow MAFFT fail and continue, but recording any that fail.
+
+* 2024-05-03
+For MAFFT fail show both MAFFT directories.
+
+* 2024-04-23
+Bug fix in EPA-ng not placing all queries due to incorrect sorting of queries from references.
+
+* 2024-04-23
+Add please wait popup when loading placement page.
+
+* 2024-04-16
+Disable some metadata for sequence over 2000 bp length when viewing alignments.
+
+* 2024-04-10
+Add to upload unknowns fastas one at time instead of all in one request to prevent timeout when uploading many.
+
+* 2024-04-04
+Add upload microsats to submit tree for microsats tree.
+
+*  2024-03-12
+Convert support values to 0-100.
+
+* 2024-03-11
+Add display option for alternate scale bar units (ie coalescent units).
+
+* 2024-03-07
+Update processing script newick_user2.py to read inputs from a file instead of command line.
+
+* 2024-03-06
+Update locus auto select to remove unselected options to improve page loading when placing many loci.
+
+* 2024-03-04
+For fasta download remove leading and trailing ?.
+
+* 2024-03-04
+Bug fix update colors.
+
 * 2024-02-29
 Add clean_sequences function to pad sequence ends with '?' replacing '-'
 
