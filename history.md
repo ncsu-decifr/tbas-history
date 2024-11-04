@@ -1,3 +1,11 @@
+* 2024-07-29
+Update CIPRES status script reading page https://operations.access-ci.org/infrastructure_news.
+
+* 2024-08-13
+Revert to old 2021 blast unite database due to some bad results for 2023 database.
+
+* 2024-07-25
+Change www blast entrez_query.
 
 * 2024-07-01
 Migrate T-BAS from Centos 7 to RHEL 9 server.
