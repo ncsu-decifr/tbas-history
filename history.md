@@ -1,3 +1,11 @@
+* 2024-05-28
+Set TrimAl to default on.
+
+* 2024-05-22
+Update create geojson file.
+
+* 2024-05-20
+Add Phylum to Kingdoms lookup json file for Claatu.
 
 * 2024-05-18
 Set BLAST database from display options.
