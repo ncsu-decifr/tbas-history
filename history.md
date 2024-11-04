@@ -1,3 +1,19 @@
+
+* 2024-07-01
+Migrate T-BAS from Centos 7 to RHEL 9 server.
+
+* 2024-06-20
+Add taxon reports to show counts for tbas, blast, blast www and rdp.
+
+* 2024-06-20
+Add RDP classifier results to other reports.
+
+* 2024-06-19
+Add NCBI WWW BLAST.
+
+* 2024-06-05
+Add more memory option for EPA-NG.
+
 * 2024-05-28
 Set TrimAl to default on.
 
