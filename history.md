@@ -1,5 +1,5 @@
 * 2024-10-22
-Add option to select blast kingdom for NCBI WWW.
+Add option to select blast kingdom for NCBIWWW.
 
 * 2024-10-16
 Add tooltip for Newick button.
