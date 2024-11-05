@@ -1,3 +1,33 @@
+* 2024-10-22
+Add option to select blast kingdom for NCBI WWW.
+
+* 2024-10-16
+Add tooltip for Newick button.
+
+* 2024-09-27
+Update taxon counts reports to include all taxon levels.
+
+* 2024-09-27
+Bug fix that prevent people from registering.
+
+* 2024-09-27
+Increase random int size for labelling sequences that caused wrong sequence to view in msa viewer.
+
+* 2024-09-18
+Update T-BAS tree viewer more Node labels options for display support vals.
+
+* 2024-09-13
+Update blast xml parser for small change in xml from ncbi.
+
+* 2024-08-21
+Set EPANG to CIPRES for send to new tree.
+
+* 2024-09-06
+Update tbas url in tutorial.
+
+* 2024-08-01
+Add to script to remove some extra html returned by ncbi blast that cause error reading xml.
+
 * 2024-07-29
 Update CIPRES status script reading page https://operations.access-ci.org/infrastructure_news.
 
