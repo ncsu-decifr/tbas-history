@@ -1,9 +1,24 @@
 
-* 2024-11-04
-Update download name list option to match selections.
+* 2025-01-14
+Move MAFFT from CIPRES to decifr Celery server.
+
+* 2025-01-10
+Update selection operation for displaying bootstrap values on tree.
+
+* 2024-11-25
+Update NCBIWWW BLAST code to try to improve speed.
+
+* 2024-11-21
+Allow one retry for fail NCBIWWW BLAST.
+
+* 2024-11-13
+Fix link on login page to https://cifr.ncsu.edu/index.php/mission/
+
+* 2024-11-07
+Fix bug in print pdf multipage.
 
 * 2024-11-04
-Update kingdom selection to BLAST filter.
+Update download name list option to match selections.
 
 * 2024-11-04
 Update taxon json files used for BLAST filter to use UNITE_public_10.05.2021.
