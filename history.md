@@ -1,3 +1,13 @@
+
+* 2024-11-04
+Update download name list option to match selections.
+
+* 2024-11-04
+Update kingdom selection to BLAST filter.
+
+* 2024-11-04
+Update taxon json files used for BLAST filter to use UNITE_public_10.05.2021.
+
 * 2024-10-22
 Add option to select blast kingdom for NCBIWWW.
 
