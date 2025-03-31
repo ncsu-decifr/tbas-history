@@ -1,4 +1,16 @@
 
+* 2025-02-14
+Move BLAST from CIPRES to decifr Celery server.
+
+* 2025-02-11
+Update job status link to show output from command on Celery instead of xml from CIPRES.
+
+* 2025-02-11
+Move RAxML from CIPRES to decifr Celery server.
+
+* 2025-01-24
+Move EPA-ng from CIPRES to decifr Celery server.
+
 * 2025-01-14
 Move MAFFT from CIPRES to decifr Celery server.
 
