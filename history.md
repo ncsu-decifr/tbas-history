@@ -1,3 +1,29 @@
+* 2025-03-27
+Add heuristic option for EPA-ng and fix bug this caused in custom placement when it was not added to that option.
+
+* 2025-03-26
+Update bootstrap filters to work with IQ-TREE.
+
+* 2025-03-25
+Update MEP schema location for phyloxml.xsd to https://decifr.cifr.ncsu.edu/schemas/phyloxml.xsd
+
+* 2025-03-25
+Update a viewer option for view alignmnets to remove sites with all ? or -.
+
+* 2025-03-04
+Update IQ-TREE for proteins.
+
+* 2025-03-02
+Update Celery tasks file that was improperly setting memory limits.
+
+* 2025-02-28
+Update RAxML for proteins.
+
+*  2025-02-24
+Update RAxML to use pthreads instead of MPI.
+
+* 2025-02-20
+Move IQ-TREE from CIPRES to decifr Celery server.
 
 * 2025-02-14
 Move BLAST from CIPRES to decifr Celery server.
