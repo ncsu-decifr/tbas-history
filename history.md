@@ -1,3 +1,128 @@
+* 2025-03-27
+Add heuristic option for EPA-ng and fix bug this caused in custom placement when it was not added to that option.
+
+* 2025-03-26
+Update bootstrap filters to work with IQ-TREE.
+
+* 2025-03-25
+Update MEP schema location for phyloxml.xsd to https://decifr.cifr.ncsu.edu/schemas/phyloxml.xsd
+
+* 2025-03-25
+Update a viewer option for view alignmnets to remove sites with all ? or -.
+
+* 2025-03-04
+Update IQ-TREE for proteins.
+
+* 2025-03-02
+Update Celery tasks file that was improperly setting memory limits.
+
+* 2025-02-28
+Update RAxML for proteins.
+
+*  2025-02-24
+Update RAxML to use pthreads instead of MPI.
+
+* 2025-02-20
+Move IQ-TREE from CIPRES to decifr Celery server.
+
+* 2025-02-14
+Move BLAST from CIPRES to decifr Celery server.
+
+* 2025-02-11
+Update job status link to show output from command on Celery instead of xml from CIPRES.
+
+* 2025-02-11
+Move RAxML from CIPRES to decifr Celery server.
+
+* 2025-01-24
+Move EPA-ng from CIPRES to decifr Celery server.
+
+* 2025-01-14
+Move MAFFT from CIPRES to decifr Celery server.
+
+* 2025-01-10
+Update selection operation for displaying bootstrap values on tree.
+
+* 2024-11-25
+Update NCBIWWW BLAST code to try to improve speed.
+
+* 2024-11-21
+Allow one retry for fail NCBIWWW BLAST.
+
+* 2024-11-13
+Fix link on login page to https://cifr.ncsu.edu/index.php/mission/
+
+* 2024-11-07
+Fix bug in print pdf multipage.
+
+* 2024-11-04
+Update download name list option to match selections.
+
+* 2024-11-04
+Update taxon json files used for BLAST filter to use UNITE_public_10.05.2021.
+
+* 2024-10-22
+Add option to select blast kingdom for NCBIWWW.
+
+* 2024-10-16
+Add tooltip for Newick button.
+
+* 2024-09-27
+Update taxon counts reports to include all taxon levels.
+
+* 2024-09-27
+Bug fix that prevent people from registering.
+
+* 2024-09-27
+Increase random int size for labelling sequences that caused wrong sequence to view in msa viewer.
+
+* 2024-09-18
+Update T-BAS tree viewer more Node labels options for display support vals.
+
+* 2024-09-13
+Update blast xml parser for small change in xml from ncbi.
+
+* 2024-08-21
+Set EPANG to CIPRES for send to new tree.
+
+* 2024-09-06
+Update tbas url in tutorial.
+
+* 2024-08-01
+Add to script to remove some extra html returned by ncbi blast that cause error reading xml.
+
+* 2024-07-29
+Update CIPRES status script reading page https://operations.access-ci.org/infrastructure_news.
+
+* 2024-08-13
+Revert to old 2021 blast unite database due to some bad results for 2023 database.
+
+* 2024-07-25
+Change www blast entrez_query.
+
+* 2024-07-01
+Migrate T-BAS from Centos 7 to RHEL 9 server.
+
+* 2024-06-20
+Add taxon reports to show counts for tbas, blast, blast www and rdp.
+
+* 2024-06-20
+Add RDP classifier results to other reports.
+
+* 2024-06-19
+Add NCBI WWW BLAST.
+
+* 2024-06-05
+Add more memory option for EPA-NG.
+
+* 2024-05-28
+Set TrimAl to default on.
+
+* 2024-05-22
+Update create geojson file.
+
+* 2024-05-20
+Add Phylum to Kingdoms lookup json file for Claatu.
 
 * 2024-05-18
 Set BLAST database from display options.
