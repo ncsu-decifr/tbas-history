@@ -1,6 +1,7 @@
 
 ## T-BAS v2.4 (May 2025)
 *  Move all programs formerly executed on CIPRES to run on NCSU local servers with Python Celery.
+*  Move T-BAS code repository from git repository on local NCSU server to GitHub.
 
 ## T-BAS v2.3 (January 2022)
 *  Complete rewrite of T-BAS viewer code using a d3 Tree of Life example with ECMAScript 6 and d3 v.6
