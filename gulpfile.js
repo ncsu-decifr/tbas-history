@@ -11,7 +11,7 @@ gulp.task('markdown_tbas', function() {
         }))
         .pipe(markdown())
 
-        .pipe(gulp.dest('/var/www/html/tbas2_3/pages'))
+        .pipe(gulp.dest('/var/www/html/tbas2_4/pages'))
 });
 
 gulp.task('markdown_docker', function() {
@@ -28,7 +28,7 @@ gulp.task('markdown_docker', function() {
 
 gulp.task('move_images', function() {
     return gulp.src("images/tbas-history/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-history'));
+        .pipe(gulp.dest('/var/www/html/tbas2_4/pages/images/tbas-history'));
 });
 
 // gulp.task('default', ['markdown_tbas', 'move_images']);
