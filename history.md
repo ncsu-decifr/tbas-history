@@ -1,3 +1,13 @@
+
+* 2025-05-19
+Add open modal with doi for how to cite button.
+
+* 2025-04-08
+Add doi to menubar. Remove references to cipres. Add option to set Trimal alignment similarity threshold.
+
+* 2025-04-04
+Add similarity test to run on celery.
+
 * 2025-03-27
 Add heuristic option for EPA-ng and fix bug this caused in custom placement when it was not added to that option.
 
