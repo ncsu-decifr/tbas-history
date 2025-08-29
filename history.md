@@ -1,4 +1,26 @@
 
+
+* 2025-08-04
+Add link in submit email for tree as seen by user.
+
+* 2025-07-07
+Add Archive button to TBAS viewer page to save arcive permanently and reload it if was deleted as over 6 month old.
+
+* 2025-06-20
+Add Meta Tags for Google Scholar and script for Schema.org Structured Data (JSON-LD) to tbas.php page.
+
+* 2025-06-05
+Create core microbiome heatmap when running unifrac.
+
+* 2025-06-04
+Change captcha to reCAPTCHA for registration page.
+
+* 2025-05-23
+Updates to new submit page.
+
+* 2025-05-21
+Update code for clade structure for celery.
+
 * 2025-05-19
 Add open modal with doi for how to cite button.
 
