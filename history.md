@@ -1,4 +1,17 @@
+* 2025-09-15
+Add check that input unknowns are actually FASTA files.
 
+* 2025-08-25
+Add some form checking on submit page.
+
+* 2025-08-22
+Add button to get geojson and a mapping tutorial for how to view it with QGIS.
+
+* 2025-08-08
+Update to skip blank page when viewing refset.
+
+* 2025-08-05
+Add new spinner loading page.
 
 * 2025-08-04
 Add link in submit email for tree as seen by user.
