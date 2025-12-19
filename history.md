@@ -1,3 +1,20 @@
+
+* 2025-10-14
+New How to cite modal.
+
+* 2025-09-25
+Hide options for WWW BLAST and RDP classifier if option is not selected.
+
+* 2025-09-24
+Remove -o (outgroup) option from iqtree command.
+Skip rerooting of tree is root is already correctly set.
+
+* 2025-09-22
+Fix bug in select trimAl.
+
+* 2025-09-16
+Make updated registration page.
+
 * 2025-09-15
 Add check that input unknowns are actually FASTA files.
 
