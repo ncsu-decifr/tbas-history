@@ -1,6 +1,6 @@
 
 * 2026-03-23
-Add script to assing placements to queries that are skipped my gappa examine assign.
+Add script to assign placements to queries that are skipped my gappa examine assign.
 
 * 2026-03-09
 Update TBAS to display simpler support vals for IQTREE.
