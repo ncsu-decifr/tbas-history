@@ -1,4 +1,40 @@
 
+* 2026-03-23
+Add script to assing placements to queries that are skipped my gappa examine assign.
+
+* 2026-03-09
+Update TBAS to display simpler support vals for IQTREE.
+
+* 2026-03-03
+Legend categories and colors for gappa and EPANG LWR.
+
+* 2026-02-24
+Add favicon.ico to page.
+
+* 2026-02-12
+Add drag bar to legend div.
+
+* 2026-02-11
+Add gappa LWR as attribute that can displayed in TBAS.
+
+* 2026-02-10
+Bug fix for gappa reading incorrect row in gappa examine assign for some cases giving not highest LWR as assignment.
+
+* 2026-02-05
+Bug fix causing submitted tree name to not appear.
+
+* 2026-01-29
+Add input field to regsitration to put NCSU dept into users database.
+
+* 2026-01-13
+Allow old submitted trees to be visible in view_submitted_trees.
+
+* 2025-11-05
+Increase recursion limit in file tbas_cmds.py.
+
+* 2025-11-03
+Use gappa examine assign to make reports for EPANG.
+
 * 2025-10-14
 New How to cite modal.
 
