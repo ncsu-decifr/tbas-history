@@ -1,4 +1,10 @@
 
+* 2026-04-02
+Update taxon file for gappa examine assign to give full taxonomy.
+
+* 2026-03-24
+Add NCBI BLAST on local server.
+
 * 2026-03-23
 Add script to assign placements to queries that are skipped by gappa examine assign.
 
