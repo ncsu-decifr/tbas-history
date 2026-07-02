@@ -1,6 +1,27 @@
 
+* 2026-05-21
+Add BLAST option to filter by query coverage.
+
+* 2026-05-20
+Update UNITE db to sh_general_release_dynamic_all_19.02.2025.
+
+* 2026-05-01
+Add flock for large MEP files to prevent OOM.
+
+* 2026-04-09
+Add check for valid fasta input.
+
+* 2026-04-06
+Add option for view huge tree that collapses edges with more than 25 leaves.
+
+* 2026-04-01
+Fix MAFFT bug due to php rename function on NFS server.
+
 * 2026-04-02
 Update taxon file for gappa examine assign to give full taxonomy.
+
+* 2026-06-26
+Run script to update previous runs that missing placements with gappa examine assign.
 
 * 2026-03-24
 Add NCBI BLAST on local server.
