@@ -1,4 +1,7 @@
 
+* 2026-05-22
+Add option to select e-val for BLAST filter.
+
 * 2026-05-21
 Add BLAST option to filter by query coverage.
 
