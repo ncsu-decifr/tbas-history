@@ -1,4 +1,16 @@
 
+* 2026-09-14
+Alert users if they are submitting a tree that is not bifurcating.
+
+* 2026-07-24
+Add script to detect invalid fasta inputs.
+
+* 2026-07-09
+Change how to show extra loci on tree viewer page.
+
+* 2026-06-23
+Update to EPGNG taxon file to set empty taxon level to unkonwn.
+
 * 2026-05-22
 Add option to select e-val for BLAST filter.
 
